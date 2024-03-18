@@ -17,6 +17,5 @@
  }
  
  .sla:hover {
-   height: 500px;
-   width: 500px;
+   size: 60%;
  }
