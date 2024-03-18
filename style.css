@@ -7,12 +7,16 @@
  
  
  .sla {
-    text-align: center;
-    background-color: khaki;
-    margin: 0px 0px;
+   text-align: center;
+   background-color: khaki;
+   margin: 0px 0px;
  }
 
  .tudo {
     background-color: khaki;
  }
  
+ .sla:hover {
+   height: 500px;
+   width: 500px;
+ }
