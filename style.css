@@ -16,6 +16,6 @@
     background-color: khaki;
  }
  
- .batata:hover {
-   size-adjust: 100%;
+ .sla:hover {
+   transform: scale(400.400);
  }
