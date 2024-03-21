@@ -1,5 +1,6 @@
 body{
   background-color: khaki;
+  text-align: center;
 }
 
 h1{
@@ -8,12 +9,11 @@ h1{
 }
 
 .batata{
-  box
 }
 
 p{
   text-align: center;
-  color: goldenrod;  
-  size: 14;
+  color: brown;  
+  font-size: 20px;
 } 
 
